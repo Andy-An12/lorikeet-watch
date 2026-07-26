@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  font-family: var(--font-sans), sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-mono), monospace;
+}
